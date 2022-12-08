@@ -1982,6 +1982,7 @@ a {
 }
 .u-form-select-wrapper {
   position: relative;
+  background-color: #cc8126;
 }
 .u-form-select-wrapper select {
   -webkit-appearance: none;
@@ -5531,8 +5532,7 @@ ul.u-text li:last-child {
   }
 }
 .u-image,
-.u-background-effect-image,
-.u-video-poster {
+.u-background-effect-image {
   object-fit: cover;
   display: block;
   vertical-align: middle;
@@ -30562,7 +30562,7 @@ li.active > a.u-button-style.u-button-style.u-border-active-grey-25 {
 }
 .u-border-grey-30,
 .u-separator-grey-30:after {
-  border-color: #b3b3b3;
+  border-color: #000;
   stroke: #b3b3b3;
 }
 .u-button-style.u-border-grey-30 {
