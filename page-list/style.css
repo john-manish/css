@@ -203,6 +203,12 @@ ion-icon#Gallery {
   float: left;
   padding: 5px 0px 5px 10px;
 }
+
+ion-icon#Website {
+  float: left;
+  padding: 5px 0px 5px 10px;
+}
+
 .MyGallery > a > span {
   float: right;
   padding: 10px 10px 10px 5px;
