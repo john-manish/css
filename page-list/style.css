@@ -171,6 +171,23 @@ ion-icon {
 }
 
 
+.list-adjust {
+
+  text-align: center; 
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.mark {
+  background-color: chartreuse;
+}
+
+.mark1 {
+  background-color: yellow;
+}
+
+
 .MyGallery > a {
   display: inline-block;
   height: auto;
